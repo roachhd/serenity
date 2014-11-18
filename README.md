@@ -21,28 +21,51 @@ I’ve written a free book called The Little Book of Contentment: A guide to bec
 
 I hope you like the book.
 
-Table of Contents
+######Table of Contents
+
 1.The Agreement
+
 2.The Root of the Problem
+
 3.The What & Why of Contentment
+
 4.The Path of Contentment
+
 5.Contentment Isn’t Doing Nothing
+
 6.Comparing to What You Don’t Have
+
 7.Watch Your Ideals & Expectations
+
 8.Advertising & Fantasies
+
 9.Build Trust
+
 10.Love Yourself
+
 11.Trying to Find Happiness in External Sources
+
 12.Where Happiness Comes From
+
 13.Finding Happiness Within
+
 14.Our Reactions to the Actions of Others
+
 15.Don’t Tie Your Self-Worth to Others’ Actions
+
 16.Become Whole In a Relationship
+
 17.Self-Happiness & Meeting Others
+
 18.Jealousy of Others
+
 19.Techniques for Self-Acceptance
+
 20.FAQ
+
 21.Conclusion
+
 22.Summary of Action Steps
+
 
 The book is uncopyrighted.
