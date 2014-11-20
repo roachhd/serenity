@@ -16,3 +16,6 @@ If you’re happy with that, let's make an agreement:
 
 1. You do those three things.
 2. You also agree to close everything else on your computer and give yourself an hour of undistracted time to read this book.
+3. I agree to keep things short, to make the most of your time, and to teach you some really useful skills.
+
+With that out of the way, I am incredibly glad you're here. Thanks for reading.
