@@ -1,4 +1,4 @@
-The What and Why if Contentment
+The What and Why of Contentment
 ===============================
 
 What is contentment? For me, it’s really about being happy with who you are. Which I wasn’t for many years, and I think most people are not.
