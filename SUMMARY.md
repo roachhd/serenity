@@ -5,7 +5,7 @@ Table of Contents
  * [The Agreement](the-agreement/the-agreement.md)
 
 * [The Root of the Problem](the-root-of-the-problem/README.md)
- * [The Root of the Problem](the-root-of-the-problem/section1.md)
+ * [The Root of the Problem](the-root-of-the-problem/the-root-of-the-problem.md)
  * [Action Step](the-root-of-the-problem/action-step.md)
 
 * [The What & Why of Contentment](the-what-and-why-of-contentment/README.md)
@@ -17,6 +17,7 @@ Table of Contents
  * [Action Step](the-what-and-why-of-contentment/action-step.md)
 
 * [Contentment Isn’t Doing Nothing](contentment-isn't-doing-nothing/README.md)
+ * [Contentment Isn’t Doing Nothing](contentment-isn't-doing-nothing/contentment-isn't-doing-nothing.md)
  * [Action Step](the-what-and-why-of-contentment/action-step.md)
 
 * [Comparing to What You Don’t Have](comparing-to-what-others-have/README.md)
