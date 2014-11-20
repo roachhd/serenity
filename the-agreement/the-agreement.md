@@ -14,6 +14,8 @@ The intent of this book is for you to:
 3. Practice the skills daily, just a few minutes a day. In a short time, you should have some basic skills that help you to be content, less angry, less stressed out.
 
 How does that sound? 
+
 If you’re happy with that, let's make an agreement:
+
 1. You do those three things.
 2. You also agree to close everything else on your computer and give yourself an hour of undistracted time to read this book.
