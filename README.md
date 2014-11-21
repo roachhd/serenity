@@ -1,11 +1,26 @@
-serenity
+Humble Book of Happiness.
 ========
 
-####The Little Book of Contentment
+####Introduction
 
 >‘He who is contented is rich.’ ~Lao Tzu
 
-*By Katie Ball*
+Contentment is a super power. If you can learn the skills of contentment, your life will be better in so many ways:
+You’ll enjoy your life more.
+Your relationship will be stronger.
+You’ll be better at meeting people.
+You’ll be healthier, and good at forming healthy habits.
+You’ll like and trust yourself more.
+You’ll be jealous less.
+You’ll be less angry and more at peace.
+You’ll be happier with your body.
+You’ll be happier no matter what you’re doing or who you’re with.
+Those are a lot of benefits, from one small bundle of skills. Putting some time in learning the skills of contentment is worth the effect and will pay off for the rest of your life.
+
+
+---
+
+####Forward
 
 One of the most important things I’ve learned in the last 7 years has been how to find contentment.
 
@@ -20,6 +35,12 @@ And now, I’d like to share that with you.
 I’ve written a free book called The Little Book of Contentment: A guide to becoming happy with life & who you are, while getting things done. I share it with you today, in hopes that it will help a few of you, or maybe many, who struggle with being happy with yourselves and your lives. It’s a more common problem than you might imagine, and if I can help just a little, that would be amazing.
 
 I hope you like the book.
+
+*Katie Ball*
+
+
+---
+
 
 ######Table of Contents
 
@@ -66,6 +87,9 @@ I hope you like the book.
 21.Conclusion
 
 22.Summary of Action Steps
+
+
+---
 
 
 The book is uncopyrighted.
