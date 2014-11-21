@@ -1,12 +1,13 @@
-Humble Book of Happiness.
-========
+Introduction
+============
 
-####Introduction
+Happiness is a super power. If you can learn the skills of happiness, your life **will** be better.
 
->‘He who is contented is rich.’ ~Lao Tzu
+By putting in some time in learning the skills of happiness, the effects and will pay off for the rest of your life.
 
-Happiness is a super power. If you can learn the skills of happiness, your life will be better in so many ways:
+Here are some of the benefits
 
+```
 You’ll enjoy your life more.
 
 Your relationship will be stronger.
@@ -24,6 +25,4 @@ You’ll be less angry and more at peace.
 You’ll be happier with your body.
 
 You’ll be happier no matter what you’re doing or who you’re with.
-
-
-  Those are a lot of benefits, from one small bundle of skills. Putting some time in learning the skills of contentment is worth the effect and will pay off for the rest of your life.
+```
