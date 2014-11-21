@@ -1,6 +1,10 @@
 Table of Contents
 =================
 
+* [Forward](forward/README.md)
+
+* [Introduction](introduction/README.md)
+
 * [The Agreement](the-agreement/README.md)
  * [The Agreement](the-agreement/the-agreement.md)
 
